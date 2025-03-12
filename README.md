@@ -1,5 +1,5 @@
 # C-5
-array reverse number
+Array size
 #include <stdio.h>
 
 int main()
